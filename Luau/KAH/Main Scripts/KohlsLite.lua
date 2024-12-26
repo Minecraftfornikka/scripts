@@ -220,6 +220,7 @@ local blacklist = {
     "aliihsan12345Bloxy",
     "jhjssikeksms",
     "grudgingDinosaur1"
+    "21wd21sd21d1d21"
 }
 
 -- Users not affected by serverlock
